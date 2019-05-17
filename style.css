@@ -1,0 +1,33 @@
+div {
+  border: 1px solid #000000;
+  width: 80%;
+  height: 800px;
+  margin: auto;
+}
+
+div ul {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+div ul li.tab-one {
+  background-color: blue;
+  width: 100%;
+  height: 100%;
+}
+
+div ul li.tab-two {
+  background-color: red;
+  width: 100%;
+  height: 100%;
+}
+
+div ul li.tab-three {
+  background-color: green;
+  width: 100%;
+  height: 100%;
+}
+/*# sourceMappingURL=style.css.map */
