@@ -14,9 +14,11 @@ ul { list-style: none;}
             display: flex;
             justify-content: center;
             li {
-                font-size: 30px;
+                font-size: 40px;
                 text-transform: uppercase;
-                text-align: center;
+                display: flex;
+                align-items: center;
+                justify-content: center;
                 &.tab-a {
                     background-color: blue;
                     width: 200px;
@@ -50,9 +52,11 @@ ul { list-style: none;}
             padding: 0;
             position: relative;
             li {
-                font-size: 30px;
+                font-size: 60px;
                 text-transform: uppercase;
-                text-align: center;
+                display: flex;
+                align-items: center;
+                justify-content: center;
                 &.content-a {
                     background-color: blue;
                     width: 100%;
