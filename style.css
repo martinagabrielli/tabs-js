@@ -18,6 +18,7 @@ ul {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+    cursor: pointer;
   }
   .container ul#tab-wrap li {
     font-size: 40px;
